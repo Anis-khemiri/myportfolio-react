@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cv_react/static/css/main.8b76a146.chunk.css",
+    "main.js": "/cv_react/static/js/main.7498e158.chunk.js",
+    "main.js.map": "/cv_react/static/js/main.7498e158.chunk.js.map",
+    "runtime-main.js": "/cv_react/static/js/runtime-main.c104a4ee.js",
+    "runtime-main.js.map": "/cv_react/static/js/runtime-main.c104a4ee.js.map",
+    "static/js/2.1c66a030.chunk.js": "/cv_react/static/js/2.1c66a030.chunk.js",
+    "static/js/2.1c66a030.chunk.js.map": "/cv_react/static/js/2.1c66a030.chunk.js.map",
+    "static/js/3.2d4b8047.chunk.js": "/cv_react/static/js/3.2d4b8047.chunk.js",
+    "static/js/3.2d4b8047.chunk.js.map": "/cv_react/static/js/3.2d4b8047.chunk.js.map",
+    "index.html": "/cv_react/index.html",
+    "static/css/main.8b76a146.chunk.css.map": "/cv_react/static/css/main.8b76a146.chunk.css.map",
+    "static/js/2.1c66a030.chunk.js.LICENSE.txt": "/cv_react/static/js/2.1c66a030.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/cv_react/static/media/shape.f1dde9a7.svg",
+    "static/media/myresume.c57e756e.pdf": "/cv_react/static/media/myresume.c57e756e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c104a4ee.js",
+    "static/js/2.1c66a030.chunk.js",
+    "static/css/main.8b76a146.chunk.css",
+    "static/js/main.7498e158.chunk.js"
+  ]
+}
